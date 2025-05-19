@@ -21,4 +21,4 @@ ai studioから取得したものでは動作しない可能性があるので�
 
 Xの連絡先  
 @soyaakinohara3  
-@Ochiunchin_dev  
+@Ochinchin_dev  （アプリ内の表記と揺れがありますがこちらのほうが正しいです）
